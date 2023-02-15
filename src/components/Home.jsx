@@ -20,7 +20,7 @@ const Home = () => {
           <br />
           <p>
             Me especializo en React Js para el desarrollo <br /> de aplicaciones
-            web fullstack completamente responsive <br /> y que se ajusten a tus
+            web completamente responsive <br /> y que se ajusten a tus
             necesidades como cliente.
           </p>
         </div>
