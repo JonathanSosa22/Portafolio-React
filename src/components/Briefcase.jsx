@@ -5,7 +5,7 @@ import img_4 from "../assets/img/ejemplo 4.png";
 
 const Briefcase = () => {
   return (
-    <div className="briefcase">
+    <div className="briefcase" id="briefcase">
       <h1>Portafolio</h1>
       <div className="briefcase-container">
         <img src={img_1} alt="" />

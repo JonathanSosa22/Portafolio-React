@@ -1,6 +1,6 @@
 const AboutMe = () => {
   return (
-    <div className="about-me">
+    <div className="about-me" id="about-me">
       <h1>Acerca de mí</h1>
       <p>
         Hola! Me llamo Sosa Jonathan Ezequiel, tengo 29 años. Soy de Argentina -

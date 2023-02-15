@@ -6,7 +6,7 @@ import icon_react from "../assets/Icons/react.svg";
 
 const Skills = () => {
   return (
-    <div className="skills">
+    <div className="skills" id="skills">
       <div>
         <h1>Mis habilidades</h1>
       </div>
