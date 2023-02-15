@@ -3,6 +3,7 @@ import Nav from "./components/Nav";
 import Home from "./components/Home";
 import AboutMe from "./components/AboutMe";
 import Skills from "./components/Skills";
+import Briefcase from "./components/Briefcase";
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
       <Home />
       <AboutMe />
       <Skills />
+      <Briefcase />
     </div>
   );
 }

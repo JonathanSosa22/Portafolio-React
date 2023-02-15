@@ -188,7 +188,6 @@ nav {
 
 .home button p {
   font-size: 22px;
-  padding-top: 3px;
 }
 
 .home button img {
@@ -288,4 +287,19 @@ nav {
 h2,
 p {
   margin: 5px 0;
+}
+
+/* Briefcase */
+
+.briefcase {
+  margin: 20px;
+  text-align: center;
+}
+
+.briefcase-container {
+  margin: 20px 0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px;
 }

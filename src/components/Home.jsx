@@ -25,7 +25,10 @@ const Home = () => {
           </p>
         </div>
         <div className="icon-redes">
-          <a href="#">
+          <a
+            href="https://www.linkedin.com/in/jonathan-ezequiel-sosa/"
+            target="_blank"
+          >
             <img src={icon_linkedin} alt="" />
           </a>
           <a href="#">
