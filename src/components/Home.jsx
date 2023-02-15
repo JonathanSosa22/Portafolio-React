@@ -15,12 +15,13 @@ const Home = () => {
       <div className="home-content">
         <div className="title">
           <h1>
-            Product <br /> Designer
+            Front-End <br /> Development
           </h1>
           <br />
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. <br />{" "}
-            Dolores, accusantium! Temporibus velit cum a reprehenderit.
+            Me especializo en React Js para el desarrollo <br /> de aplicaciones
+            web fullstack completamente responsive <br /> y que se ajusten a tus
+            necesidades como cliente.
           </p>
         </div>
         <div className="icon-redes">
